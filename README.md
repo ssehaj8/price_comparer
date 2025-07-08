@@ -37,4 +37,17 @@ cd global-price-comparer
 mvn spring-boot:run
 
 
-## App runs on: http://localhost:8089/compare
+### App runs on: http://localhost:8089/compare
+
+
+### 🧩 Dependencies
+
+- **Java** 17 or higher
+- **Spring Boot** 3.x
+- **Maven**
+- **Selenium** `4.21.0`
+- **WebDriverManager** `5.7.0`
+- **ChromeDriver** (compatible with your local Chrome version)
+- **Jsoup** `1.21.1`
+- **Lombok** `1.18.38`
+- **Spring Boot DevTools**
